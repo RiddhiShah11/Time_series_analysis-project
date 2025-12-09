@@ -18,12 +18,12 @@ A machine learning project to analyze and forecast TCS stock prices using ARIMA,
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 | Model | Description |
 |--------|------------|
 | ARIMA | Classical time series forecasting |
 | SARIMA | Seasonal ARIMA forecasting |
-| Prophet | Facebook Prophet for trend prediction |
+| Prophet | Prophet for trend prediction |
 | LSTM | Deep learning prediction model |
 
 ---
